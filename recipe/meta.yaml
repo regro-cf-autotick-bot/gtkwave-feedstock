@@ -23,6 +23,7 @@ requirements:
   host:
     - tk
     - gperf
+    - glib
     - gtk2
     - xz
   run:
