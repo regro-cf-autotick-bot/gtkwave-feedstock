@@ -28,6 +28,7 @@ requirements:
     - xz
   run:
     - zlib
+    - bzip2
     - gtk2
     - libglib
     - pango
