@@ -1,11 +1,11 @@
-About gtkwave
-=============
+About gtkwave-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gtkwave-feedstock/blob/main/LICENSE.txt)
 
 Home: http://gtkwave.sourceforge.net/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gtkwave-feedstock/blob/main/LICENSE.txt)
 
 Summary: GTKWave is a fully featured GTK+ based wave viewer
 
@@ -32,7 +32,7 @@ Current build status
               <td>linux_64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11588&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/gtkwave-feedstock?branchName=main&jobName=linux&configuration=linux_64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/gtkwave-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_" alt="variant">
                 </a>
               </td>
             </tr>
